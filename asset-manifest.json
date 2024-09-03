@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LLM4kidzzz/static/css/main.b3a35655.css",
+    "main.js": "/LLM4kidzzz/static/js/main.91a5ff83.js",
+    "static/js/453.91aff915.chunk.js": "/LLM4kidzzz/static/js/453.91aff915.chunk.js",
+    "index.html": "/LLM4kidzzz/index.html",
+    "main.b3a35655.css.map": "/LLM4kidzzz/static/css/main.b3a35655.css.map",
+    "main.91a5ff83.js.map": "/LLM4kidzzz/static/js/main.91a5ff83.js.map",
+    "453.91aff915.chunk.js.map": "/LLM4kidzzz/static/js/453.91aff915.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3a35655.css",
+    "static/js/main.91a5ff83.js"
+  ]
+}
